@@ -1,0 +1,1521 @@
+{
+  "_id": "storm",
+  "created": "2020-01-01T17:22:28.023Z",
+  "updated": "2020-03-24T00:25:49.087Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "storm",
+  "profileId": "outpost0",
+  "version": "no_version",
+  "items": {
+    "b519d6fa-a8f2-461c-8fb0-bf47c36f351d": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "44834450-73f3-4c85-8e4f-9ea563b5c872": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "4841db43-3ce6-4b35-8822-d50b0ef912b4": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "8d46c45d-2cfd-4b44-894b-6296cab4b181": {
+      "templateId": "Trap:tid_floor_spikes_wood_sr_t05",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 50,
+        "alterationDefinitions": [
+          "Alteration:aid_att_damage_physical_t03",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_damage_t03",
+          "Alteration:aid_att_critchance_t03",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_att_buildingmaxhealth_t03"
+        ],
+        "baseClipSize": 0,
+        "durability": 270,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 20
+    },
+    "a514c235-d194-4327-939e-b1bf222c8421": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "bcabc61e-2815-4cf3-933f-a5f61f692709": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "2e8c961d-cbae-4414-bb77-0a8313ae56c7": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "d2f65f62-e32f-4e03-b144-04f2e9f961fd": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "72b8aaf5-e824-4057-adff-a70cfbcb2fde": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "1cb89304-38fe-42ff-a07d-3f14fe80e0a4": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "f17529f6-fd28-4d14-babe-4b787753d375": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "a95f8b07-d9f4-443c-a79e-b3d36d596b1f": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "bb2556c7-267f-48de-9ea9-64bdbc001870": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "6c964be3-7ed4-4364-8227-8de4f77c2fe9": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 164
+    },
+    "adf164d9-a0b5-41f2-924e-411a46395d4b": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 200
+    },
+    "6a5c66a6-3797-4f3d-9667-b85ab28650bd": {
+      "templateId": "Trap:tid_wall_launcher_sr_t04",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 40,
+        "alterationDefinitions": [
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_knockbackimpact_t01",
+          "Alteration:aid_att_knockbackimpact_t02",
+          "Alteration:aid_att_knockbackimpact_t02",
+          "Alteration:aid_att_knockbackimpact_t02",
+          "Alteration:aid_att_buildingmaxhealth_t03"
+        ],
+        "baseClipSize": 0,
+        "durability": 24,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 8
+    },
+    "b6e10639-1c9d-4937-9046-8482bd91d336": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "b79fc7d3-41ee-4d23-a39f-04f5f0691876": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "ede55478-73fb-4c33-b9a0-e1e35d4d5caa": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "864a66d6-c446-4df9-aa2c-89267b2d3914": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "89d6b6f4-665a-4f6a-b8e9-3a6982839e0f": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "ca8bb682-9c9d-4774-9e0e-cf93be2cf61a": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "e835e8cc-0c5c-4d2e-bf9b-554a9a1c9f68": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "348493d2-6e46-4e6e-843d-70299e831fcf": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "29a0d961-781e-4c97-891b-e85d59516f49": {
+      "templateId": "WorldItem:stoneitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 1499
+    },
+    "f4aa7404-4dae-4895-968c-53d664212bbb": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "ded1e56f-9a35-47fd-8a02-6492eab1072a": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 245
+    },
+    "a08cc85e-804f-43c2-9b04-9410bbeb848b": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "0a3d3ae5-2909-4036-b719-b1c84aea4029": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "79110b36-03d7-44e6-8ae1-100816ed2543": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "58a0a377-d107-4158-b448-f017dde844fb": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 200
+    },
+    "54349e46-d9db-4653-86e3-9ed60df51289": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "36a1f283-0841-4ce3-8f77-2bc89cc8e4f5": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 200
+    },
+    "ba11217d-1a67-4981-b54f-6c9d016bd91e": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "5d462003-36ae-458a-b9ef-e4b25ba0ee87": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "6d9e8f5a-82f3-4a03-bd0f-c14ba571fe57": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "0c95b989-7a96-45ba-a9d5-a4869f832967": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "25dd7043-ef00-4456-bdd9-0499a1f37398": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 200
+    },
+    "409da362-3aa3-474d-8c11-7336a73d8933": {
+      "templateId": "WorldItem:wooditemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 4201
+    },
+    "076fef8f-0c6d-4d67-8868-43d1472a55bf": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "5f1d231b-6519-4c7f-bd66-9c36a5f4dcd0": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "0b929900-e9f7-40f6-9797-a04b84ba2f26": {
+      "templateId": "Trap:tid_floor_ward_sr_t05",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 50,
+        "alterationDefinitions": [
+          "Alteration:aid_att_maxdurability_trap_t01",
+          "Alteration:aid_att_maxdurability_trap_t01",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_reloadspeed_trap_t03",
+          "Alteration:aid_att_buildingheal_t03",
+          "Alteration:aid_att_buildingheal_t03"
+        ],
+        "baseClipSize": 0,
+        "durability": 20,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 20
+    },
+    "ae01feaa-c36d-4252-81c1-e08ac52f846e": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "b1304a21-ca1c-44dc-9847-419efc9782e1": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "8e3eb7c3-c3c2-44ec-b4a2-5e1df4c2b6ee": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "a91e01a7-e04f-46a7-87cb-7cf49876a103": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "c995835f-0546-4a14-bd6a-4ee425a24e7d": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "0b391d81-5fc1-4054-8248-02317657fa7f": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "e7f119d9-5ce1-4772-bbc3-501ebd0217fb": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "None"
+      },
+      "quantity": 200
+    },
+    "b102a951-f8ec-4bf7-8d9a-9613adb170fc": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "eec70ebb-1004-4155-8349-12b42aef5697": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "6cec242e-f201-4aac-860c-057b962fc650": {
+      "templateId": "Trap:tid_ceiling_electric_aoe_sr_t05",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 50,
+        "alterationDefinitions": [
+          "Alteration:aid_ele_nature_intrin_t01",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_critchance_t03",
+          "Alteration:aid_att_reloadspeed_trap_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ],
+        "baseClipSize": 0,
+        "durability": 36,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 21
+    },
+    "ef7d8ae1-7245-4d98-9419-134ed32da338": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "5c3fd4fe-76a0-43f5-be21-7f6ddd91702e": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "8547e74c-7b04-4ec8-a502-235bc1b4912b": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "64f3db5d-aa96-4e03-94ad-965c534eeab0": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Destruction"
+      },
+      "quantity": 200
+    },
+    "47744065-9f57-4df5-85b6-64de66b987bf": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "8657bb2e-d8ae-4f9c-ad7e-9d244a3e09d1": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "493b1f4e-517d-49f8-ba95-b2726271c7c2": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "6d56f36f-1f53-4f92-a472-90f0ccf33915": {
+      "templateId": "Trap:tid_wall_cannons_sr_t05",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 50,
+        "alterationDefinitions": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_maxdurability_trap_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_reloadspeed_trap_t03",
+          "Alteration:aid_att_buildingmaxhealth_t03"
+        ],
+        "baseClipSize": 0,
+        "durability": 36,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 16
+    },
+    "266facff-c7e9-47ae-9781-09c3fab132b5": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "8e95ed47-64fe-4edb-9836-4e176423139d": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "654a7606-8482-401a-afa3-e763e0591e4c": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "22431a99-b386-4214-952a-86cea30bac23": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "162adb32-6966-4dda-a733-bbced3f3d09b": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "f12925a7-3142-4d77-976c-16f9ad509778": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "f5f4dab8-0d41-4c87-9ffb-db35d092de25": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "0d65518d-e325-47c7-a97e-0c5f1528fab3": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "e1fb6140-a480-4040-8852-4ee50a9ba9ee": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "9de5c125-45bf-4801-af7c-0be61fb60614": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "1ffe227d-8b24-40b3-bee7-34e044a8ea8b": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "41ca91d2-d0cd-4be5-86a1-3c290f63f04b": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "339101d6-bd94-4cc6-bc9e-7ab046bb478f": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "eecc21d4-dfc6-4200-8d02-90db04f66b79": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "0aa0851b-efdb-4612-ae98-cc682ef998a9": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "e9b8f131-0f0a-4cfc-97e4-9ec5114f3103": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "09b0b9f7-3b0b-4878-ab35-af44e290d4ff": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "9a55aec0-6e0d-473b-b400-92be8953e655": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "c1eeca61-41bf-4d6c-a4fe-cee0c1bd4935": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "26928a2e-f3d0-4195-9f33-9c0fa866efde": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "252563aa-353d-4a35-a5fc-d3d7857bd090": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "30ada8a1-12b8-47db-9397-734aa65935a0": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 10
+    },
+    "4772c8f9-e3df-4329-9c28-adb77afe67db": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "d8f6bf1b-0499-49d8-8cde-2209f7d69ef5": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "668fae3f-f2f3-4ebb-9e78-84b4e2c872a1": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "0ffd692e-a31a-46e0-9942-d0db7f02e3d6": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "29169a8a-3a9d-4ac4-ada5-1de401a7d5ff": {
+      "templateId": "WorldItem:metalitemdata",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 9
+    },
+    "525f49b7-99fc-4f4b-8c4c-4300a792eae3": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "f50170c4-ee24-4a78-a7b2-291bcc1efca8": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Container"
+      },
+      "quantity": 95
+    },
+    "8188586b-0973-4c34-ae3a-38ae5fcb0086": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "935c2796-b7c9-4b16-a390-01b14c0789c4": {
+      "templateId": "Trap:tid_ceiling_falling_sr_t04",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 40,
+        "alterationDefinitions": [
+          "Alteration:aid_att_damage_physical_t01",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_damage_t02",
+          "Alteration:aid_att_critchance_t02",
+          "Alteration:aid_att_critdamage_t03",
+          "Alteration:aid_att_maxdurability_trap_t03"
+        ],
+        "baseClipSize": 0,
+        "durability": 24,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 18
+    },
+    "3d28a0c8-631f-4458-8a75-df8b6be88239": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "704f41f9-0df4-4e98-a7fd-991477d10029": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "8eca554d-c23a-4c26-8cae-90182514a785": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "7fe33aad-6091-4e06-b12a-2d1b0a10c5c6": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "2bd2ed3e-8be9-4254-9090-cd13dc6897af": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "232e9afe-368a-48f0-b122-d54b793b8079": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "29127235-d556-4457-a67e-50aab5f91c1d": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "7ee933fd-8060-4789-bc2a-7f98b2f70f4a": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "ee9ca8ca-bcc1-4cee-97dd-21c1c54f321a": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "8ba2cf9b-b23e-4f27-bc03-a1a9ed54b889": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "46db6e58-6623-4417-85a3-30c31e698940": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "cbabf588-3475-4c5e-aa38-ff8dc50d366a": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "75c49eef-ca60-45d3-b811-2d925b14bba1": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "c5d7a9d2-a313-41f6-bf7e-dc88bb3a3d5c": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "541c8ec2-b8ab-483a-afa2-ef16115c37ea": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "22a04293-b407-4ae4-b9a7-02096d086568": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "8cf68799-f44a-4982-872c-c1a716bf6564": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "11906ffa-48ef-44a8-a7e3-f50f1d7f04bc": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "b4a29219-8377-4649-91ff-01b3efe4aef0": {
+      "templateId": "Ingredient:ingredient_planks",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "c22bca26-3569-479e-af6a-60ac23b0917d": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "c51d617d-19e9-4eb2-97ab-5efa37d9c96d": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "278eda8f-927a-4b1b-9b71-e9aeca711a39": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "6b7221e9-64fb-46fb-b913-e23ef2617645": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "c0e7ee0d-cfe0-493f-aed3-193479e710ff": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "3942ac10-5b7a-4bb4-ad48-47419497ee72": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player, EFortPickupSourceTypeFlag::Tossed"
+      },
+      "quantity": 200
+    },
+    "92b15e62-4a2c-4efb-98ec-94df35efec27": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    },
+    "ee680cf2-77df-439a-aa2f-a36b33d3d9ae": {
+      "templateId": "Ingredient:ingredient_ore_alloy",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": ""
+      },
+      "quantity": 200
+    },
+    "490cf44f-756d-4421-a462-78ea5256fe90": {
+      "templateId": "Trap:tid_wall_electric_sr_t05",
+      "attributes": {
+        "clipSizeScale": 0,
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 50,
+        "alterationDefinitions": [
+          "Alteration:aid_ele_nature_intrin_t05",
+          "Alteration:aid_att_damage_t05",
+          "Alteration:aid_att_critdamage_t05",
+          "Alteration:aid_att_critchance_t05",
+          "Alteration:aid_att_reloadspeed_trap_t05",
+          "Alteration:aid_att_maxdurability_trap_t05"
+        ],
+        "baseClipSize": 0,
+        "durability": 36,
+        "itemSource": ""
+      },
+      "quantity": 4
+    },
+    "e99f0da1-b057-4e06-8bf8-12551aa303d7": {
+      "templateId": "Ingredient:ingredient_nuts_bolts",
+      "attributes": {
+        "loadedAmmo": 0,
+        "inventory_overflow_date": false,
+        "level": 0,
+        "alterationDefinitions": [],
+        "durability": 1,
+        "itemSource": "EFortPickupSourceTypeFlag::Player"
+      },
+      "quantity": 200
+    }
+  },
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 0
+}

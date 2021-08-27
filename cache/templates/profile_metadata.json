@@ -1,0 +1,220 @@
+{
+  "_id": "storm",
+  "created": "2020-01-01T17:22:28.023Z",
+  "updated": "2020-03-24T00:25:49.087Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "storm",
+  "profileId": "metadata",
+  "version": "no_version",
+  "items": {
+    "5e95ad91-c76d-42c7-a2d0-c69dc0c4f147": {
+      "templateId": "Outpost:outpostcore_pve_01",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 251,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 0,
+              "recordFilename": "5e95ad91-c76d-42c7-a2d0-c69dc0c4f147_r0_a0.sav"
+            }
+          ]
+        },
+        "level": 10,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "0a79a88314fe45a486e7530aaac2460e",
+            "8f3ffa7075814c148b6524358f23ebdb",
+            "ad6bdd8c87014c3ca9010e27133b6dfd",
+            "70baead251a34852852f5df091c23fad",
+            "b616a6a4bdc14256b20536de07682871",
+            "8a2e30e4049f428d85e4dc5239d150fa",
+            "c502578f574543ca8c2c217385e38673",
+            "8d02d5e0cf384eb68edd51bbac751e4b",
+            "00f41ff233fe408394337e734950e7c5",
+            "002616dcd0a647e286ae343e47b099ab",
+            "52d5b146783e4f19887f2d2377208cb6",
+            "9c8bc04a477940a0b04728e8eac555b3"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    },
+    "2eb1bf7b-96f5-4598-aa8c-2e4a58183e84": {
+      "templateId": "Outpost:outpostcore_pve_04",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 579,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 1,
+              "recordFilename": "2eb1bf7b-96f5-4598-aa8c-2e4a58183e84_r0_a1.sav"
+            }
+          ]
+        },
+        "level": 6,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.03"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.04",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.05",
+              "placedTag": "Outpost.PlacementActor.Placement.08"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "0a79a88314fe45a486e7530aaac2460e",
+            "8f3ffa7075814c148b6524358f23ebdb",
+            "9e3027f156134d039e3393b405860c7f"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    },
+    "384214c2-7934-4138-99ab-3d099e80d6af": {
+      "templateId": "Outpost:outpostcore_pve_03",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 339,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 1,
+              "recordFilename": "384214c2-7934-4138-99ab-3d099e80d6af_r0_a1.sav"
+            }
+          ]
+        },
+        "level": 10,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "8f3ffa7075814c148b6524358f23ebdb",
+            "0a79a88314fe45a486e7530aaac2460e",
+            "95647ef445af4341be9ba7ad30331783",
+            "0070c5452ad54b59a3be6fac5d5dc2de"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    },
+    "f90eca1d-f56e-4651-bfe1-c50d04ef594b": {
+      "templateId": "Outpost:outpostcore_pve_02",
+      "attributes": {
+        "cloud_save_info": {
+          "saveCount": 290,
+          "savedRecords": [
+            {
+              "recordIndex": 0,
+              "archiveNumber": 1,
+              "recordFilename": "f90eca1d-f56e-4651-bfe1-c50d04ef594b_r0_a1.sav"
+            }
+          ]
+        },
+        "level": 10,
+        "outpost_core_info": {
+          "placedBuildings": [
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.00",
+              "placedTag": "Outpost.PlacementActor.Placement.01"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.01",
+              "placedTag": "Outpost.PlacementActor.Placement.02"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.02",
+              "placedTag": "Outpost.PlacementActor.Placement.00"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.03",
+              "placedTag": "Outpost.PlacementActor.Placement.04"
+            },
+            {
+              "buildingTag": "Outpost.BuildingActor.Building.04",
+              "placedTag": "Outpost.PlacementActor.Placement.05"
+            }
+          ],
+          "accountsWithEditPermission": [
+            "3dbc22f40a894b0686018075b4e66da1",
+            "8ea0610c22504b1ea9b8f85a8d7ce5a8",
+            "8f3ffa7075814c148b6524358f23ebdb",
+            "1935df3e2f2a45308b2ef9e5d3e41e0d",
+            "57e3ec8d1c9943b8ae0b53517d55987b",
+            "e2557edd87354577b96219a60ba26545",
+            "d6e751de68214a1fbbc6cd7bb961adfb",
+            "58071010761a44c3ac84d057663f8732",
+            "88ec238d5fb54cd1b2e77e3a3c2b880f",
+            "ad6bdd8c87014c3ca9010e27133b6dfd",
+            "0a79a88314fe45a486e7530aaac2460e"
+          ],
+          "highestEnduranceWaveReached": 0
+        }
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 0
+}
